@@ -1,2 +1,2 @@
 # covid-flu-peds-coinfection
-Investigating the epidemiology of SARS-CoV-2 and influenza virus co-infection among children and adolescents in the United States using the National COVID Cohort Collaborative (N3C)
+Investigating the epidemiology of COVID-19 and influenza co-infection among children, adolescents, and young adults in the United States using the National COVID Cohort Collaborative
